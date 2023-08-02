@@ -1,5 +1,5 @@
 # MyDocker
-Здесь записи с моего обучения Docker и Docker Compose 
+Здесь краткие записи итогов минипроектов моего обучения Docker и Docker Compose. 
 
 
 ## Первый опыт.
